@@ -1,4 +1,4 @@
-# Project-Data-Wrangling-Welovedogs-Twitter-Archive
+# Project-Data-Wrangling-WeRateDogs-Twitter-Archive
 In my journey to working with the #welovedog tweeter data. I will break this report into three just like from our class.
 ## Gather
 In this stage, I was able to gather data from three different source.
