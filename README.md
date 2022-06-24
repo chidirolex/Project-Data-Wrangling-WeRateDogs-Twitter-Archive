@@ -1,5 +1,5 @@
 # Project-Data-Wrangling-WeRateDogs-Twitter-Archive
-In my journey to working with the #welovedog tweeter data. I will break this report into three just like from our class.
+In my journey to working with the #welovedog tweeter data. I will break this report into three sections: Gather, Assess and Cleaning.
 ## Gather
 In this stage, I was able to gather data from three different source.
 First: The directly download of the WeRateDogs Twitter archive data (twitter_archive_enhanced.csv)
